@@ -74,52 +74,54 @@ assets/
 ## 📸 Capturas de Tela
 
 ### 🟠 Tela de Login  
-![Login](link-da-imagem)
+![Login](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/Login.jpg)
 
 ---
 
 ### 🔁 Recuperação de Senha  
-![RecuperaSenha](link-da-imagem)
+![RecuperaSenha](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/RecuperaSenha.jpg)
 
 ---
 
 ### 🆕 Registo de Novo Utilizador  
-![Registo](link-da-imagem)
+![Registo](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/Registo.jpg)
 
 ---
 
 ### 🏠 Tela Home com eventos listados  
-![Home](link-da-imagem)
+![Home](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/Home.jpg)
 
 ---
 
 ### 🗺️ Busca por local  
-![HomeBuscaLocal](link-da-imagem)
+![HomeBuscaLocal](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/HomeBuscaLocal.jpg)
 
 ---
 
 ### 🔍 Busca por tipo de evento  
-![HomeBuscaTipo](link-da-imagem)
+![HomeBuscaTipo](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/HomeBuscaTipo.jpg)
 
 ---
 
 ### 📍 Detalhes do Evento  
-![DetalhesEvento](link-da-imagem)
+![DetalhesEvento](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/DetalhesEvento.jpg)
 
 ---
 
 ### 💛 Tela de Favoritos com opção de cancelar e desfavoritar  
-![Favoritos](link-da-imagem)
+![Favoritos](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/Favoritos.jpg)
 
 ---
 
 ### 👤 Tela de Perfil com eventos inscritos e histórico  
-![Perfil](link-da-imagem)
+![Perfil](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/Perfil.jpg)
 
 
 ## 🎥 Demonstração em Vídeo
 
-📽️ Clique aqui para ver o vídeo
+
+[▶️ Clique aqui para assistir ao vídeo de demonstração](https://github.com/Renata-Baptistelli/MyEvent-Buddy/blob/main/MyEventBuddy.mp4?raw=true)
+
 
 
 🧑‍💻 Autora
