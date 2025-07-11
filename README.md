@@ -124,9 +124,16 @@ assets/
 
 
 
-🧑‍💻 Autora
+🧑‍💻 Autoria
 
-Este projeto foi desenvolvido por mim, como parte da formação em desenvolvimento mobile multiplataforma com React Native, com toda a orientação do formador Monge.
+Este projeto foi desenvolvido por mim como parte da formação em Desenvolvimento Mobile Multiplataforma com React Native, sob orientação do formador Monge.
+
+Representa um desafio completo de desenvolvimento mobile full-stack, utilizando backend serverless com Firebase, com foco em aplicações comerciais reais.
+
+Ao longo da criação, foram aplicados conceitos fundamentais como hooks do React, navegação com React Navigation, integração com serviços externos, 
+regras de segurança no Firestore, além de boas práticas de UI/UX.
+
+O resultado final é um produto funcional, moderno e pronto para ser escalado ou adaptado para contextos profissionais.
 
 
 
