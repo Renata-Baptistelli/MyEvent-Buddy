@@ -124,6 +124,7 @@ assets/
 
 
 
+
 🧑‍💻 Autoria
 
 Este projeto foi desenvolvido por mim como parte da formação em Desenvolvimento Mobile Multiplataforma com React Native, sob orientação do formador Monge.
